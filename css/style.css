@@ -1,6 +1,14 @@
 body {
   background-image: url(../img/principal.jpg);
   display: block;
-  background-position: center center;
+  background-position: center -50%;
+  height: ;
   background-repeat: no-repeat;
+}
+#idSamuca{
+  border-radius: 50%;
+  ;
+}
+div {
+  text-align: center;
 }
