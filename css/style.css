@@ -4,11 +4,98 @@ body {
   background-position: center -50%;
   height: ;
   background-repeat: no-repeat;
-}
-#idSamuca{
+  }
+ 
+ #Praragrafo1 {
+ text-align: center;
+ color: black;
+
+  } 
+  #Titulo2 {
+    font-family: monospace, sans-serif;
+    color: gray;
+    text-align: center;
+  }
+ 
+ #idSamuca {
   border-radius: 50%;
-  ;
-}
-div {
+  
+ }
+ #Paragrafo2 {
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ #Paragrafo3 {
   text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  color: gray;
+
+ }
+ div {
+  text-align: center;
+ }
+ #linha1 {
+   font-family: monospace, sans-serif, Courier;
+   font-style: italic;
+   text-align: center;
+   color: gray;
+   list-style: none;
+  }
+ #linha2 {
+   font-family: monospace, sans-serif, Courier;
+   font-style: italic;
+   text-align: left;
+   color: gray;
+   list-style: none;
+  }
+ #linha3 {
+   font-family: monospace, sans-serif, Courier;
+   font-style: italic;
+   text-align: right;
+   color: gray;
+   list-style: none;
+ }
+ #linkcenter3 {
+  font-family: monospace, sans-serif, Courier;
+  font-style: italic;
+  text-align: initial;
+  color: gray;
+  list-style: none;
+ }
+ #linkleft2 {
+  font-family: monospace, sans-serif, Courier;
+  font-style: italic;
+  padding-left: 580px;
+ } 
+ #linkright1 {
+  font-family: monospace, sans-serif, Courier;
+  font-style: italic;
+  text-align: right;
+  color: gray;
+  list-style: none;
+  }
+ 
+ #linkright {
+  float: right;
+  }
+
+ #linkleft {
+  float: left;
+  }
+
+ #linkcenter {
+  float: left;
+  }
+ #list3 {
+  font-family: monospace, sans-serif;
+  color: gray;
+  text-align: center;
+ }
+ .liste1 {
+  font-family: monospace, sans-serif;
+  color: black;
+  text-align: center;
+  list-style: none;
+  font-style: italic;
 }
